@@ -1,0 +1,10 @@
+colors:
+  - yellow
+  - blue
+  - green
+  - red
+title: white
+legend: white
+marker: white
+label: white
+background: { 0.0: black , 0.8: gray.brighter }

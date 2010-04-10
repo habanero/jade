@@ -1,0 +1,13 @@
+colors:
+  - 0x6886B4, # blue
+  - 0xFDD84E, # yellow
+  - 0x72AE6E, # green
+  - 0xD1695E, # red
+  - 0x8A6EAF, # purple
+  - 0xEFAA43, # orange
+  - 0xffffff  # white
+title: white
+legend: white
+marker: white
+label: white
+background: { 0.5: black , 1.0: 0x4a465a }

@@ -1,0 +1,13 @@
+colors:
+  - 0x00ff00 # green
+  - 0x333333 # grey
+  - 0xff5d00 # orange
+  - 0xf61100 # red
+  - white
+  - 0x999999 # light_grey
+  - black    # black
+title: white
+legend: white
+marker: white
+label: white
+background: { 0.0: 0x0083a3, 1.0: 0x0083a3 }

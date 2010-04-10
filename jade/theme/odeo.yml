@@ -1,0 +1,14 @@
+colors:
+  - yellow
+  - 0x202020 # grey
+  - white
+  - 0xa21764 # dark_pink
+  - 0x8ab438 # green
+  - 0x999999 # light_grey
+  - 0x3a5b87 # dark_blue
+  - black
+title: white
+legend: white
+marker: white
+label: white
+background: { 0.5: 0xff47a4, 1.0: 0xff1f81 }

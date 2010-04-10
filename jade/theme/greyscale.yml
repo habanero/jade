@@ -1,0 +1,12 @@
+colors:
+  - 0x282828
+  - 0x383838
+  - 0x686868
+  - 0x989898
+  - 0xc8c8c8
+  - 0xe8e8e8
+title: black
+legend: black
+marker: 0xaea9a9  # Grey
+label: black
+background: { 0.0: white , 0.8: white }

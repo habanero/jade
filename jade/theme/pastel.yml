@@ -1,0 +1,14 @@
+colors:
+  - yellow
+  - 0xa9dada # blue
+  - 0xaedaa9 # green
+  - 0xdaaea9 # peach
+  - 0xdadaa9 # yellow
+  - 0xa9a9da # dk purple
+  - 0xdaaeda # purple
+  - 0xdadada # grey
+title: black
+legend: black
+marker: 0xaea9a9  # Grey
+label: black
+background: { 0.0: white, 1.0: white }
